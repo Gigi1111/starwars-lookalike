@@ -2,7 +2,7 @@
 	"name": "starwar-quiz",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://gigi1111.github.io/starwars_lookalike/",
+	"homepage": "https://gigi1111.github.io/starwars-lookalike/",
 	"dependencies": {
 		"react": "^16.9.0",
 		"react-dom": "^16.9.0",
